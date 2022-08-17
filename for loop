@@ -1,0 +1,4 @@
+
+for f in `cat servers.txt`; do ssh $f uname -a; done
+
+for f in `cat servers.txt`; do echo "### $f ###"; ssh $f uname -a; done
