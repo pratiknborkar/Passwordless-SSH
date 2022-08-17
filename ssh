@@ -13,3 +13,6 @@ Now Login in other nodes
 10 untar ssh.tar with command
 Command- tar -xvf ssh.tar ##Run this command in all nodes
 11. add all ip and hostnames in ti vi /etc/hosts of all servers.
+
+
+
